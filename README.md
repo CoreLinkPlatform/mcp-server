@@ -1,5 +1,10 @@
 # CoreLink MCP Server
 
+[![Maturity: Scaffold / Planned](https://img.shields.io/badge/maturity-scaffold%20%2F%20planned-lightgrey)](https://github.com/CoreLinkPlatform/.github/blob/main/REPOSITORY_MATURITY.md)
+[![Artifact: Not published](https://img.shields.io/badge/artifact-not%20published-lightgrey)](https://github.com/CoreLinkPlatform/mcp-server)
+[![MCP: Planned](https://img.shields.io/badge/MCP-planned-blueviolet)](https://modelcontextprotocol.io/)
+[![Contract: v1 draft](https://img.shields.io/badge/contract-v1%20draft-orange)](https://github.com/CoreLinkPlatform/api-contracts)
+
 > **Maturity: Scaffold / Planned** — no supported MCP server package or tool manifest exists yet.
 
 CoreLink MCP Server is the planned Model Context Protocol boundary for AI-assisted, tenant-safe CoreLink workflows. It must consume versioned public CoreLink contracts and preserve the same authorization/tenant boundaries as other clients.
